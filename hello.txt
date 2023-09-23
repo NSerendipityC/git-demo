@@ -1,4 +1,4 @@
 hello git!
 hello git!
 hello git!
-hot-fix hello master
+hot-fix hello master and hot-fix
